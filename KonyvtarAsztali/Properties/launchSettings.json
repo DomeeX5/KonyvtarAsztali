@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KonyvtarAsztali": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
