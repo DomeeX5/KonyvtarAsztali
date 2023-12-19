@@ -19,6 +19,7 @@ namespace KonyvtarAsztali
 			builder.UserID = "root";
 			builder.Password = "";
 			builder.Database = "konyvtar";
+
 			try
 			{
 				connection = new MySqlConnection(builder.ConnectionString);
